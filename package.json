@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemodule": "^0.3.0"
+  },
+  "name": "light",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "scripts build"
+  
+  },
+  "author": "sreerag",
+  "license": "ISC",
+  "description": ""
+}
